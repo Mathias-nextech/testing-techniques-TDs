@@ -1,0 +1,17 @@
+{
+  "name": "8-transaction-savepoint",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "better-sqlite3": "^12.4.1",
+    "vite": "^7.1.7",
+    "vitest": "^3.2.4"
+  }
+}
