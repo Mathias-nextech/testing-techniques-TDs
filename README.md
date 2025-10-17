@@ -10,4 +10,4 @@
 8. Transaction with a savepoint
 9. E-commerce with fixtures
 10. Todo API
-11. Playwright install
+11. Authentication with Playwright
