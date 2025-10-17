@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
-import LoginPage from '../pages/login';
-import RegisterPage from '../pages/register';
-import DashboardPage from '../pages/dashboard';
+import LoginPage from './pages/login';
+import RegisterPage from './pages/register';
+import DashboardPage from './pages/dashboard';
 
 test.describe('Authentification', () => {
 
