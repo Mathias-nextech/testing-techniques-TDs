@@ -11,3 +11,4 @@
 9. E-commerce with fixtures
 10. Todo API
 11. Authentication with Playwright
+12. Accessibility tests with Playwright and Axe
