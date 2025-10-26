@@ -6,4 +6,4 @@ Voici une suite de tests, à vous de coder la solution !
 2. Reconfigurer le dépot distant de github
 3. Installez les dépendances ```npm || yarn install```
 4. Démarrez vitest ```npm || yarn run test```
-3. Coder
+3. Coder la class PasswordValidator dans le dossier src
